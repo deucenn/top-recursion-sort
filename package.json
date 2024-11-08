@@ -1,0 +1,12 @@
+{
+  "name": "top-recursion-sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fibonacci.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
