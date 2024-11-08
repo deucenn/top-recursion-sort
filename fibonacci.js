@@ -34,4 +34,4 @@ console.log(fibsRec(0)); // []
 console.log(fibsRec(1)); // [0]
 console.log(fibsRec(8)); // [0, 1, 1, 2, 3, 5, 8, 13]
 
-module.exports = { fibsRec, fibs}
+module.exports = { fibsRec, fibs };
